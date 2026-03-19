@@ -15,7 +15,7 @@ I’m an Aspiring Developer and NBCC Software Development student based in Monct
 ### 📫 How to Reach Me
 - Email: dhillongurleen211@gmail.com
 - LinkedIn: [linkedin.com/in/gurleen-kaur](https://www.linkedin.com/in/gurleen-kaur-b54129294/)
-- GitHub: github.com/GurleenKaur655
+- GitHub: [github.com/GurleenKaur655](https://github.com/GurleenKaur655)
 <!--
 **GurleenKaur655/GurleenKaur655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
