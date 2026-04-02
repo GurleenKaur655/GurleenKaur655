@@ -2,7 +2,6 @@
 I’m an Aspiring Developer and NBCC Software Development student based in Moncton, New Brunswick. I’m passionate about full-stack web development and exploring AI models, with a focus on clean code, intuitive UI, and practical problem-solving.
 
 ### 🔭 Currently Working On
-- 🖌️ An interactive portfolio website using React, Vite, Three.js, and Tailwind CSS
 - 🤖 Transformer-based AI projects, including GPT-2 architecture and local LLM inference
 
 ### 🛠️ Skills & Tools
