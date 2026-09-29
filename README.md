@@ -1,9 +1,6 @@
 ## Hi there 👋
 I’m an Aspiring Developer and NBCC Software Development student based in Moncton, New Brunswick. I’m passionate about full-stack web development and exploring AI models, with a focus on clean code, intuitive UI, and practical problem-solving.
 
-### 🔭 Currently Working On
-- 🤖 Transformer-based AI projects, including GPT-2 architecture and local LLM inference
-
 ### 🛠️ Skills & Tools
 - Languages & Frameworks: C#, ASP.NET MVC, Spring Boot, Java, JavaScript, TypeScript, Node.js, Express.js, Angular, React, HTML, CSS
 - AI / ML: Python, Transformer Architecture, Token Embeddings, Self-Attention, GPT-2, Local LLMs
