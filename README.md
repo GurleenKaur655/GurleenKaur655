@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m an Aspiring Developer and NBCC Software Development student based in Moncton, New Brunswick. I’m passionate about full-stack web development and exploring AI models, with a focus on clean code, intuitive UI, and practical problem-solving.
+I’m a Software Developer graduated from NBCC(Software Development) based in Moncton, New Brunswick. I’m passionate about full-stack web development and exploring AI models, with a focus on clean code, intuitive UI, and practical problem-solving.
 
 ### 🛠️ Skills & Tools
 - Languages & Frameworks: C#, ASP.NET MVC, Spring Boot, Java, JavaScript, TypeScript, Node.js, Express.js, Angular, React, HTML, CSS
